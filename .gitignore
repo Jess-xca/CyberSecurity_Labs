@@ -1,0 +1,5 @@
+# Ignore OS Images and Installers
+*.iso
+*.7z
+*.exe
+Week01/03_Installers/   
